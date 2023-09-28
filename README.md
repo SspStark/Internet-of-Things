@@ -1,12 +1,12 @@
 # Internet-of-Things
-**what is the Internet of Things (IoT)?**\
+### what is the Internet of Things (IoT)?
 IoT refers to Things around us are connected to each other and performing intelligent actions.\
 simple and interactive things
 - Can ***sense*** their surroundings
 - Can ***talk*** to other things
 - Can ***act intelligently***
 
-**How do things turn into smart things and achieve connectivity & intelligence?**
+### How do things turn into smart things and achieve connectivity & intelligence?
 ### DNA of IoT
 **Devices** --> To sense the surroundings.\
 **Network** --> To talk to other things.\
@@ -20,9 +20,8 @@ Building blocks of an IoT Device
 - Communication
 - Firmware
 
-In IoT Devices major component is Sensors.\
-**Sensors**
-
+In IoT Devices major component is Sensors.
+#### Sensors
 Sensing element of an IoT Device
 - Can detect changes in its environment.
 - Slighest changes that even humans cannot perceive.
@@ -44,7 +43,7 @@ Temperature Sensor
 
 pressure sensor, Location sensor and many more...
 
-**How Smart Things Sense?**
+### How Smart Things Sense?
 
 Sensor based IoT Devices embedded into Physical Things Around you.\
 Can be embedded into your Gadgets, Electrical appliances, Vehicals, Traffic lights & almost anything we can come across.
