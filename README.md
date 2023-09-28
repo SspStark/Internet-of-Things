@@ -21,12 +21,12 @@ Building blocks of an IoT Device
 - Firmware
 
 In IoT Devices major component is Sensors.
-#### Sensors
+### Sensors
 Sensing element of an IoT Device
 - Can detect changes in its environment.
 - Slighest changes that even humans cannot perceive.
 
-**Types of Sensors**
+### Types of Sensors
 
 Proximity Sensor
 - Detects the presence of a nearby object
