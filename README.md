@@ -42,7 +42,7 @@ PIR Sensor
 Temperature Sensor
 - Measures temperature levels & changes.\
 
-and many more...
+pressure sensor, Location sensor and many more...
 
 **How Smart Things Sense?**
 
@@ -62,6 +62,8 @@ and many more...
 
 To make these devices work we need to software which is called Firmware.
 - Assembly Language, C/Embedded C, C++, MicroPython, Python and many more...
+
+Examples: Smart Precision Agriculture, Smart Parking Lot etc.
 ### Network
 **Wireless Communication**
 
