@@ -40,7 +40,7 @@ PIR Sensor
 - Used for human presense detection.
 
 Temperature Sensor
-- Measures temperature levels & changes.
+- Measures temperature levels & changes.\
 
 and many more...
 
