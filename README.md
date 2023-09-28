@@ -60,7 +60,7 @@ and many more...
 - Smartphones has around 16 different sensors.
 - McLaren's Formula-1 car has over 300 sensors.
 
-To make these devices work we need to software which is Firmware.
+To make these devices work we need to software which is called Firmware.
 - Assembly Language, C/Embedded C, C++, MicroPython, Python and many more...
 ### Network
 **Wireless Communication**
