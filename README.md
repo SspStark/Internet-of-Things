@@ -41,6 +41,7 @@ PIR Sensor
 
 Temperature Sensor
 - Measures temperature levels & changes.
+
 and many more...
 
 **How Smart Things Sense?**
