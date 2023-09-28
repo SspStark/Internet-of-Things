@@ -40,7 +40,7 @@ PIR Sensor
 - Used for human presense detection.
 
 Temperature Sensor
-- Measures temperature levels & changes.
+- Measures temperature levels & changes.\
 and many more...
 
 **How Smart Things Sense?**
@@ -49,5 +49,4 @@ Sensor based IoT Devices embedded into Physical Things Around you.\
 Can be embedded into your Gadgets, Electrical appliances, Vehicals, Traffic lights & almost anything we can come across.
 
 **Advanced Sensors**
-
 Pulse sensors, Flex sensors, Inertial Measurement Unit, Galvanic sensors, Electro-Encephalographic (EEG) sensors, Biodegradable sensors and many more...
