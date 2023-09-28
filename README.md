@@ -42,7 +42,7 @@ PIR Sensor
 Temperature Sensor
 - Measures temperature levels & changes.
 
-**How Smart Things Sense?**\
+**How Smart Things Sense?**
 
 Sensor based IoT Devices embedded into Physical Things Around you.\
 Can be embedded into your Gadgets, Electrical appliances, Vehicals, Traffic lights & almost anything we can come across.
