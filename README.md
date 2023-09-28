@@ -51,3 +51,24 @@ Can be embedded into your Gadgets, Electrical appliances, Vehicals, Traffic ligh
 
 **Advanced Sensors**.\
 Pulse sensors, Flex sensors, Inertial Measurement Unit, Galvanic sensors, Electro-Encephalographic (EEG) sensors, Biodegradable sensors and many more...
+
+**Sensors in smart phones**\
+Proximity sensors: Auto turn-off screen near ear.\
+Ambient Light sensor: Auto-Brightness feature.\
+Accelerometer + Gyroscope: Fitness Apps for step count.\
+and many more...
+- Smartphones has around 16 different sensors.
+- McLaren's Formula-1 car has over 300 sensors.
+
+To make these devices work we need to software which is Firmware.
+- Assembly Language, C/Embedded C, C++, MicroPython, Python and many more...
+### Network
+**Wireless Communication**
+
+Enabling Things to communicate
+- Bluetooth/BLE, WiFi, 4G/5G, LPWANs/LoRaWAN, etc.
+
+### Applications
+**Building Intelligence from Devices**
+- Having or selecting preferences of users on how or when devices should work.
+- Application giving suggestions to user based on information received from sensors.
